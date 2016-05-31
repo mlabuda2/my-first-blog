@@ -6,17 +6,18 @@ body {
 
 
 h1 a {
-    color: #FCA205;
+    color: #5499E8;
     font-family: 'Open Sans', sans-serif;
 }
 
 h2 a {
-    color: #F50C52;
+    color: #5499E8;
     font-family: 'Fjalla One', sans-serif;
 }
 
+
 .page-header {
-    background-color: #ff9400;
+    background-color: #C91240;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
